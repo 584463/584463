@@ -38,8 +38,7 @@
 ## 📫 How to Reach Me
 
 - GitHub: [mstr3sl](https://github.com/mstr3sl)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)
-- Email: mstr3sl@youremail.com
+- Email: mstr3sl@hotmail.com
 
 ---
 
